@@ -15,6 +15,7 @@ This is a simple exercise to practice making your first commit.
 | Name | Email |
 |------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com |
+| Marek Valach | Mvalach71@gmail.com 
 | Tomáš Paterna | awptom8@gmail.com |
 | Ondřej Kliment | andrew.kliment6@gmail.com |
 | Martin Šupler | suplerm0@gmail.com |
