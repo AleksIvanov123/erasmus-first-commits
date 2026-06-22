@@ -12,9 +12,9 @@ This is a simple exercise to practice making your first commit.
 
 ## 👥 Team
 
-| Name | Email |
-|------|-------|
-| Tito Julio González Padial | titojuliogonzalez@gmail.com |
+| Name | Email | Discord name |
+|------|-------|-------|
+| Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
 
 ## 🔗 Links
 
